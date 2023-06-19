@@ -1,9 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T08:24:22.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.3.8" etag="x048t5uGChApsfiAWKI2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T08:58:41.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="L7meXY0EfWfvI5r5bGzU" version="21.3.8" type="github">
   <diagram name="Page-1" id="1PCz-_0yKPqa13gkMKuP">
-    <mxGraphModel>
+    <mxGraphModel dx="1221" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hrbTyOzwffadt4rG0ZKK-1" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudfront;" vertex="1" parent="1">
+          <mxGeometry x="376" y="360" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="hrbTyOzwffadt4rG0ZKK-2" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="112" y="402.5" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="hrbTyOzwffadt4rG0ZKK-4" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#7D7C7C;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="400" width="46.5" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="hrbTyOzwffadt4rG0ZKK-5" value="&lt;span style=&quot;color: rgb(22, 25, 31); font-family: &amp;quot;Amazon Ember&amp;quot;; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;origin servers&lt;br&gt;&lt;i&gt;(S3bucket/http server)&lt;/i&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="463" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hrbTyOzwffadt4rG0ZKK-6" value="Developer" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/developerkit/png/User%20Alt.png" vertex="1" parent="1">
+          <mxGeometry x="380" y="110" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hrbTyOzwffadt4rG0ZKK-7" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn.onlinewebfonts.com/svg/img_500854.png;" vertex="1" parent="1">
+          <mxGeometry x="197.47" y="300" width="47.93" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hrbTyOzwffadt4rG0ZKK-8" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" vertex="1" parent="1">
+          <mxGeometry x="230" y="272" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="hrbTyOzwffadt4rG0ZKK-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Media_File.svg;" vertex="1" parent="1">
+          <mxGeometry x="245.4" y="310" width="32.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hrbTyOzwffadt4rG0ZKK-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hrbTyOzwffadt4rG0ZKK-6" target="hrbTyOzwffadt4rG0ZKK-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="350" as="sourcePoint" />
+            <mxPoint x="380" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrbTyOzwffadt4rG0ZKK-11" value="upload file/content &lt;br&gt;to &lt;br&gt;original server&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hrbTyOzwffadt4rG0ZKK-10">
+          <mxGeometry x="-0.5376" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrbTyOzwffadt4rG0ZKK-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="hrbTyOzwffadt4rG0ZKK-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="415" y="190" as="sourcePoint" />
+            <mxPoint x="420" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrbTyOzwffadt4rG0ZKK-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hrbTyOzwffadt4rG0ZKK-12">
+          <mxGeometry x="-0.0844" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrbTyOzwffadt4rG0ZKK-14" value="&amp;nbsp;create a&lt;br&gt;&amp;nbsp;CloudFront&amp;nbsp;&lt;br&gt;distribution(&lt;br&gt;&lt;span style=&quot;color: rgb(22, 25, 31); text-align: left;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;origin servers,&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;&lt;i&gt;specify details&lt;span style=&quot;color: rgb(22, 25, 31); text-align: left;&quot;&gt;&lt;font style=&quot;&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Amazon Ember&amp;quot;; font-size: 16px;&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hrbTyOzwffadt4rG0ZKK-12">
+          <mxGeometry x="-0.1378" relative="1" as="geometry">
+            <mxPoint x="5" y="37" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrbTyOzwffadt4rG0ZKK-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1" target="hrbTyOzwffadt4rG0ZKK-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="454" y="400" as="sourcePoint" />
+            <mxPoint x="600" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrbTyOzwffadt4rG0ZKK-17" value="domain name" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hrbTyOzwffadt4rG0ZKK-16">
+          <mxGeometry x="0.1494" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrbTyOzwffadt4rG0ZKK-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hrbTyOzwffadt4rG0ZKK-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="280" as="sourcePoint" />
+            <mxPoint x="740" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrbTyOzwffadt4rG0ZKK-19" value="send distribution&#39;s configuration &lt;br&gt;(not content)&lt;br&gt;&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hrbTyOzwffadt4rG0ZKK-18">
+          <mxGeometry x="0.2891" y="-1" relative="1" as="geometry">
+            <mxPoint x="-38" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrbTyOzwffadt4rG0ZKK-20" value="all of&amp;nbsp;&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;&lt;em style=&quot;border-color: var(--border-color); color: rgb(22, 25, 31); font-family: &amp;quot;Amazon Ember&amp;quot;; font-size: 16px; text-align: left;&quot;&gt;edge locations/&lt;br&gt;&lt;/em&gt;POPs" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.cloud_wan_virtual_pop;" vertex="1" parent="1">
+          <mxGeometry x="740" y="383" width="78" height="78" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
